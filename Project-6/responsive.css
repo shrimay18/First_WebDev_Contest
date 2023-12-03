@@ -1,0 +1,627 @@
+@media(max-width:1880px) and(min-width:1587px) {
+    .company6 {
+        display: none;
+    }
+
+    .logo_company {
+        width: fit-content;
+    }
+
+    .second_page_image1 {
+        position: absolute;
+        width: 35vw;
+        height: 45vh;
+        top: 180%;
+        left: 5%;
+        border-radius: 10px;
+
+    }
+
+    .intersection {
+        position: absolute;
+        left: 45vw;
+        overflow: hidden;
+        width: 40vw;
+    }
+
+    .right_most {
+        position: absolute;
+        left: 50vw;
+        width: 30vw;
+        height: 45vh;
+        border-radius: 10px;
+
+    }
+
+    .bar {
+        width: 70vw;
+        font-size: 2vh;
+        padding: 3vh;
+        position: absolute;
+        top: 15%;
+        width: 100vw;
+        text-align: center;
+    }
+
+    img.company1 {
+        width: 2vw;
+        height: 2vh;
+    }
+
+}
+
+@media(max-width:1587px) and (min-width:1300px) {
+    .para {
+        width: 35vw;
+    }
+
+    .second_page_image1 {
+        position: absolute;
+        width: 35vw;
+        height: 45vh;
+        top: 180%;
+        left: 5%;
+        border-radius: 10px;
+
+    }
+
+
+    .intersection {
+        position: absolute;
+        left: 45vw;
+        overflow: hidden;
+        width: 42vw;
+        font-size: 2vh;
+        overflow: hidden;
+    }
+
+    .writing {
+        width: 70vw;
+    }
+
+    .right-most {
+        visibility: hidden;
+        overflow: hidden;
+    }
+
+    .bar {
+        width: 80vw;
+    }
+
+    .second {
+        width: 40vw;
+    }
+}
+
+@media(max-width:1300px) and (min-width:1067px) {
+    .para {
+        width: 35vw;
+        font-size: 1vh;
+    }
+
+
+    .second_page_image1 {
+        position: absolute;
+        width: 35vw;
+        height: 45vh;
+        top: 180%;
+        left: 5%;
+        border-radius: 10px;
+
+    }
+
+
+    .intersection {
+        position: absolute;
+        left: 45vw;
+        overflow: hidden;
+        width: 40vw;
+        font-size: 1.8vh;
+        overflow: hidden;
+    }
+
+    .writing {
+        width: 70vw;
+    }
+
+    .right-most {
+        visibility: hidden;
+        overflow: hidden;
+    }
+
+
+    .bar {
+        width: 70vw;
+        font-size: 2vh;
+        padding: 3vh;
+        position: absolute;
+        top: 15%;
+        width: 100vw;
+        text-align: center;
+    }
+
+    .Lorem {
+        width: 100vw;
+        text-align: center;
+    }
+
+    .image_one {
+        height: 30vh;
+        width: 28vw;
+        position: absolute;
+        padding-left: 60vw;
+        top: 25%;
+    }
+
+    .second {
+        width: 40vw;
+    }
+
+    button {
+        width: 5vw;
+        font-size: 1vh;
+    }
+
+    .video {
+        font-size: 1vh;
+        top: 63vh;
+    }
+
+}
+
+@media(max-width:1067px) and (min-width:780px) {
+    .highlighted {
+        font-size: 1.5vh;
+    }
+
+    .para {
+        width: 35vw;
+    }
+
+    .second_page_image1 {
+        position: absolute;
+        width: 30vw;
+        height: 40vh;
+        top: 180%;
+        left: 5%;
+        border-radius: 10px;
+
+    }
+
+
+    .intersection {
+        position: absolute;
+        left: 45vw;
+        overflow: hidden;
+        width: 40vw;
+        font-size: 1.4vh;
+        height: 85vh;
+        overflow: hidden;
+    }
+
+    .writing {
+        width: 70vw;
+    }
+
+    .right-most {
+        visibility: hidden;
+        overflow: hidden;
+    }
+
+    .box1 {
+        font-size: 1.5vh;
+        text-align: center;
+    }
+
+    .box2 {
+        font-size: 1.5vh;
+        text-align: center;
+    }
+
+    .box3 {
+        font-size: 1.5vh;
+        text-align: center;
+    }
+
+    .box4 {
+        font-size: 2vh;
+        text-align: center;
+    }
+
+    .Lorem {
+        font-size: 1.5vh;
+        text-align: center;
+    }
+
+    .bar1 {
+        padding-left: 15vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar2 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar3 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar4 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar5 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar6 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar7 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar8 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .image_one {
+        height: 50vh;
+        width: 28vw;
+        position: absolute;
+        padding-left: 60vw;
+        top: 20%;
+    }
+
+    .second {
+        width: 40vw;
+    }
+
+    button {
+        font-size: 0.5vh;
+        position: absolute;
+        top: 60vh;
+    }
+
+    .video {
+        font-size: 0.5vh;
+        top: 65vh;
+    }
+}
+
+@media (max-width:840px) and (min-width:637px) {
+    .highlighted {
+        font-size: 1.5vh;
+    }
+
+    .para {
+        width: 35vw;
+    }
+
+    .second_page_image1 {
+        position: absolute;
+        width: 35vw;
+        height: 45vh;
+        top: 180%;
+        left: 5%;
+        border-radius: 10px;
+
+    }
+
+
+    .intersection {
+        position: absolute;
+        left: 45vw;
+        overflow: hidden;
+        width: 40vw;
+        height: 85vh;
+        font-size: 1.5vh;
+        overflow: hidden;
+    }
+
+    .writing {
+        width: 70vw;
+    }
+
+    .right-most {
+        visibility: hidden;
+        overflow: hidden;
+    }
+
+    .box1 {
+        font-size: 2vh;
+        text-align: center;
+    }
+
+    .box2 {
+        font-size: 2vh;
+        text-align: center;
+    }
+
+    .box3 {
+        font-size: 2vh;
+        text-align: center;
+    }
+
+    .box4 {
+        font-size: 2vh;
+        text-align: center;
+    }
+
+    .Lorem {
+        font-size: 2vh;
+        text-align: center;
+        position: absolute;
+        top: 5%;
+        left: 40%;
+    }
+
+    .bar1 {
+        padding-left: 5vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar2 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar3 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar4 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar5 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar6 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar7 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar8 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .image_one {
+        height: 50vh;
+        width: 28vw;
+        position: absolute;
+        padding-left: 60vw;
+        top: 20%;
+    }
+
+    .second {
+        width: 30vw;
+    }
+
+    button {
+        font-size: 0.5vh;
+        position: absolute;
+        top: 60vh;
+    }
+
+    .video {
+        font-size: 0.5vh;
+        top: 65vh;
+    }
+
+    .Welcome {
+        font-size: 3vh;
+    }
+
+    .LOREM {
+        font-size: 4vh;
+    }
+
+    .Lorem12 {
+        font-size: 1.5vh;
+    }
+}
+
+@media (max-width:637px) {
+    .highlighted {
+        font-size: 1.5vh;
+    }
+
+    .para {
+        width: 35vw;
+    }
+
+    .second_page_image1 {
+        position: absolute;
+        width: 35vw;
+        height: 45vh;
+        top: 180%;
+        left: 5%;
+        border-radius: 10px;
+
+    }
+
+
+    .intersection {
+        position: absolute;
+        left: 45vw;
+        overflow: hidden;
+        width: 40vw;
+        font-size: 1.5vh;
+        overflow: hidden;
+        height: 85vh;
+    }
+
+    .writing {
+        width: 70vw;
+    }
+
+    .right-most {
+        visibility: hidden;
+        overflow: hidden;
+    }
+
+    .box1 {
+        font-size: 1vh;
+        text-align: center;
+    }
+
+    .box2 {
+        font-size: 1vh;
+        text-align: center;
+    }
+
+    .box3 {
+        font-size: 1vh;
+        text-align: center;
+    }
+
+    .box4 {
+        font-size: 1vh;
+        text-align: center;
+    }
+
+    header {
+        width: 100vw;
+        overflow: hidden;
+    }
+
+    .top {
+        overflow: hidden;
+    }
+
+    .first {
+        overflow: hidden;
+    }
+
+    .Lorem {
+        font-size: 2vh;
+        text-align: center;
+        position: absolute;
+        top: 5%;
+        left: 40%;
+    }
+
+    .bar {
+        position: absolute;
+        top: 8%;
+        left: 2%;
+        width: 100vw;
+    }
+
+    .bar1 {
+        padding-left: 5vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar2 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar3 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar4 {
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar5 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar6 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar7 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .bar8 {
+        padding-left: 3vw;
+        text-decoration: none;
+        color: rgb(111, 134, 187);
+    }
+
+    .image_one {
+        height: 50vh;
+        width: 28vw;
+        position: absolute;
+        padding-left: 60vw;
+        top: 20%;
+    }
+
+    .second {
+        width: 30vw;
+    }
+
+    button {
+        font-size: 0.5vh;
+        position: absolute;
+        top: 60vh;
+    }
+
+    .video {
+        font-size: 0.5vh;
+        top: 65vh;
+    }
+
+    .Welcome {
+        font-size: 3vh;
+    }
+
+    .LOREM {
+        font-size: 4vh;
+    }
+
+    .Lorem12 {
+        font-size: 1.5vh;
+    }
+}
